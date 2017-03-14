@@ -3,4 +3,4 @@ my blog website
 
 ## 演示地址：
 
-  [www.jackiewong.cn](http://www.jackiewong.cn//)
+  [www.jackiewong.cn](http://www.jackiewong.cn/)
